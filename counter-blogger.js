@@ -9,7 +9,7 @@ var f = "width='15'/> : ";
 var g = "<img alt='counter' ";
 var h = "src=";
 var i = "'expr:http://cgibin.";
-var j = "erols.com/cgi-bin/Count.cgi?df=' + data:post.id + '";
+var j = "erols.com/cgi-bin/Count.cgi?df=counterblogger";
 var k = "&srgb=00ff00";
 var l = "&prgb=101010";
 var kl = "ga"+"me"+"ba"+"wz.";
