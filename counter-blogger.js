@@ -8,7 +8,7 @@ var e = "'https://4.bp.blogspot.com/-CoYz-9RSfLI/WEIXJVrJFcI/AAAAAAAABP4/gop-pky
 var f = "width='15'/> : ";
 var g = "<img alt='counter' ";
 var h = "src=";
-var i = "'expr:http://cgibin.";
+var i = "http://cgibin.";
 var j = "erols.com/cgi-bin/Count.cgi?df=counterblogger";
 var k = "&srgb=00ff00";
 var l = "&prgb=101010";
@@ -17,7 +17,7 @@ var mn = "com/"+"p/"+"a-"+"a"+"ds"+".html'>";
 var m = "&ft=0";
 var n = "&trgb=";
 var o = "000000&";
-var p = "dd=D'";
+var p = "dd=D";
 var q = "/>";
 var total1 = a+b+c+d;
 var total2 = e+f+g+h;
